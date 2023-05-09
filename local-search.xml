@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>云计算lab9反思总结</title>
+    <link href="/2023/05/09/%E4%BA%91%E8%AE%A1%E7%AE%97lab9%E5%8F%8D%E6%80%9D%E6%80%BB%E7%BB%93/"/>
+    <url>/2023/05/09/%E4%BA%91%E8%AE%A1%E7%AE%97lab9%E5%8F%8D%E6%80%9D%E6%80%BB%E7%BB%93/</url>
+    
+    <content type="html"><![CDATA[<p><strong>主题选择</strong></p><p>本次实验用了hexo+github pages相结合的方式来实验楼一个简单的个人静态博客，我选用的是fluid主题。选用hexo来实现的原因主要是hexo实现的过程比较简便，并且有比较喜欢的fluid主题。</p><p><strong>页面设计</strong></p><p>通过在_post创建文章的方式分出来四个小模块，并将图片放入_post目录下文件夹中。在整体上修改了浏览器tab页名称和博客标题以及主页正中间的文字。</p><p><strong>将本地文件部署到github pages上</strong></p><p>进入到public目录中，使用以下命令初始化一个Git仓库。然后将GitHub仓库的地址添加为Git仓库的远程仓库。接下来提交所有文件和目录到Git仓库中。最后将Git仓库中的代码推送到GitHub仓库中。</p><p><strong>制作过程中遇到的问题</strong></p><p>1、不知道怎么使用hexo的主题<br>2、不清楚怎么将本地的demo部署到github上<br>3、不知道怎么添加图片</p><p><strong>实验总结</strong><br>通过这次实验，我熟悉了相关操作，用Hexo搭建了一个简单的个人静态博客。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>最好的崩坏三</title>
+    <link href="/2023/05/09/%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B4%A9%E5%B4%A9%E5%B4%A9/"/>
+    <url>/2023/05/09/%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B4%A9%E5%B4%A9%E5%B4%A9/</url>
+    
+    <content type="html"><![CDATA[<p>最好的崩崩崩</p><img src="/2023/05/09/%E6%9C%80%E5%A5%BD%E7%9A%84%E5%B4%A9%E5%B4%A9%E5%B4%A9/test4.png" class="">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Bronya</title>
+    <link href="/2023/05/09/Bronya/"/>
+    <url>/2023/05/09/Bronya/</url>
+    
+    <content type="html"><![CDATA[<p>最好的鸭鸭</p><img src="/2023/05/09/Bronya/test3.png" class="">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Mei</title>
+    <link href="/2023/05/09/Mei/"/>
+    <url>/2023/05/09/Mei/</url>
+    
+    <content type="html"><![CDATA[<p>最好的芽衣</p><img src="/2023/05/09/Mei/test2.png" class="">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>kiana</title>
+    <link href="/2023/05/09/kiana/"/>
+    <url>/2023/05/09/kiana/</url>
+    
+    <content type="html"><![CDATA[<p>最好的琪宝</p><img src="/2023/05/09/kiana/test1.png" class="">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
